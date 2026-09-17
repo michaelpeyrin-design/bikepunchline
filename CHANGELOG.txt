@@ -1,0 +1,11 @@
+BIKE & PUNCHLINE — v1.2.0 — 17/09/2026
+
+- Nouvelle interface minimaliste validée : fond blanc, noir/gris et cyan du logo.
+- Logo historique BikePunchline intégré dans l’en-tête.
+- Navigation responsive et accès ADMIN.
+- Decap CMS configuré pour le dépôt GitHub michaelpeyrin-design/bikepunchline, branche main.
+- Collection Articles : titre, date, image, résumé et contenu Markdown.
+- Build Netlify sans dépendance : génération automatique des nouveaux articles CMS et insertion sur l’accueil.
+- Médias historiques volontairement exclus de cette mise à jour.
+- Nouveau média inclus uniquement : logo BikePunchline.
+- Version harmonisée en v1.2.0 sur les pages livrées.
