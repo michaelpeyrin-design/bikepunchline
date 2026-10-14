@@ -1,0 +1,6 @@
+BikePunchline V5.2.0 — refonte graphique publique
+
+Modification des styles et invalidation du cache CSS des pages publiques.
+Aucun changement des scripts dynamiques, de Netlify Database ou de l’administration.
+Copier les fichiers de ce ZIP à la racine du dépôt GitHub en conservant les chemins.
+Avant déploiement, conserver une sauvegarde du dépôt.
